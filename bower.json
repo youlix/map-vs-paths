@@ -1,0 +1,20 @@
+{
+  "name": "map-vs-paths",
+  "version": "0.1.0",
+  "description": "Map vs Paths examples",
+  "author": {
+    "name": "youlix",
+    "email": "youlix@yahoo.com"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.15"
+  }
+}
